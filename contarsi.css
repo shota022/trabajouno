@@ -1,0 +1,81 @@
+body{
+	background: url(excel.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.info1{
+	background-color:#BF1DF3;
+	font-family:arial;
+	position:absolute;
+	top:25px;
+	left:7%;
+	height:380px;
+	width:450px;
+	border-radius:15px;
+}
+.info2{
+	background-color:#BF1DF3;
+	font-family:arial;
+	position:absolute;
+	top:410px;
+	left:7%;
+	height:200px;
+	width:350px;
+	border-radius:20px;
+}
+.f1{
+	background-color:yellow;
+	font-family:arial;
+	position:absolute;
+	top:190px;
+	left:45%;
+	height:150px;
+	width:150px;
+	border-radius:20px;
+}
+.f2{
+	background-color:yellow;
+	font-family:arial;
+	position:absolute;
+	top:130px;
+	left:65%;
+	height:350px;
+	width:400px;
+	border-radius:20px;
+	  border-radius:15px ;
+  border:6px solid #BF1DF3;
+}
+.f3
+{
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:510px;
+	left:40%;
+	height:150px;
+	width:400px;
+	border-radius:20px;
+}
+.f4
+{
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:510px;
+	left:70%;
+	height:150px;
+	width:400px;
+	border-radius:20px;
+}
+.f5{
+	background-color:gray;
+	font-family:arial;
+	position:absolute;
+	top:25px;
+	left:70%;
+	height:80px;
+	width:150px;
+	border-radius:20px;
+}
