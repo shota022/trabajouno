@@ -1,0 +1,70 @@
+body{
+	background: url(excel.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.info1{
+	background-color:#1DF3BC;
+	font-family:arial;
+	position:absolute;
+	top:30px;
+	left:1%;
+	height:200px;
+	width:650px;
+	border-radius:15px;
+}
+.info2{
+	background-color:#1DF3BC;
+	font-family:arial;
+	position:absolute;
+	top:155px;
+	left:105%;
+	height:400px;
+	width:650px;
+	border-radius:15px;
+}
+.f1{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:30px;
+	left:53%;
+	height:150px;
+	width:155px;
+	border-radius:20px;
+}
+.f2{
+	background-color:yellow;
+	font-family:arial;
+	position:absolute;
+	top:250px;
+	left:4%;
+	height:250px;
+	width:330px;
+	border-radius:20px;
+	   border-radius:15px ;
+  border:6px solid black;
+}
+.f3
+{
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:510px;
+	left:5%;
+	height:150px;
+	width:400px;
+	border-radius:20px;
+}
+.f4{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:33%;
+	height:150px;
+	width:180px;
+	border-radius:20px;
+}

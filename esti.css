@@ -1,0 +1,61 @@
+body{
+	background: url(excel.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.info1{
+	background-color:#20F31D;
+	font-family:arial;
+	position:absolute;
+	top:65px;
+	left:5%;
+	height:350px;
+	width:550px;
+	border-radius:15px;
+}
+.f1{
+	background-color:yellow;
+	font-family:arial;
+	position:absolute;
+	top:165px;
+	left:52%;
+	height:150px;
+	width:150px;
+	border-radius:20px;
+}
+.f2{
+	background-color:yellow;
+	font-family:arial;
+	position:absolute;
+	top:135px;
+	left:70%;
+	height:250px;
+	width:270px;
+	border-radius:20px;
+	  border-radius:15px ;
+  border:6px solid grey;
+}
+.f3
+{
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:470px;
+	left:5%;
+	height:150px;
+	width:400px;
+	border-radius:20px;
+}
+.f4{
+	background-color:gray;
+	font-family:arial;
+	position:absolute;
+	top:35px;
+	left:75%;
+	height:80px;
+	width:150px;
+	border-radius:20px;
+}
+
